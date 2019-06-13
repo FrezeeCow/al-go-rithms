@@ -7,15 +7,15 @@ Clean example implementations of data structures and algorithms written in diffe
 
 ## List of implementations
 
-* [Search](search)
+* [Search](search)(查找)
   * [binary search](search/binary_search)
   * [linear search](search/linear_search)
   * [jump search](search/jump_search)
   * [ternary search](search/ternary_search)
   * [interpolation search](search/interpolation_search)
   * [best first search](search/best_first_search)
-* [Sort](sort)
-  * [bubble sort](sort/bubble_sort)
+* [Sort](sort)(排序)
+  * [bubble sort](sort/bubble_sort)(冒泡排序)
   * [insertion sort](sort/insertion_sort)
   * [quick sort](sort/quick_sort)
   * [merge sort](sort/merge_sort)
