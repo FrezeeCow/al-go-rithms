@@ -20,15 +20,14 @@ int main()
 {
 	int arr[] = { 2, 3, 7, 8, 78, 99, 102, 5555 };
 	int x = 99;
-        int result = linearSearch(arr, 0, sizeof(arr) / sizeof(arr[0]), x);
+	int result = linearSearch(arr, 0, sizeof(arr) / sizeof(arr[0]), x);
 
 	if (result == -1) {
-		printf("Element not present!\n");
+	printf("Element not present!\n");
 	}
 	else {
-		printf("Element found at index %d!\n", result);
+	printf("Element found at index %d!\n", result);
 	}
-    input_to_quit();
 
-    return 0;
+	return 0;
 }
