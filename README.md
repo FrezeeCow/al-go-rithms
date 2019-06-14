@@ -8,8 +8,8 @@ Clean example implementations of data structures and algorithms written in diffe
 ## List of implementations
 
 * [Search-查找](search)
-  * [binary search](search/binary_search)
-  * [linear search](search/linear_search)
+  * [binary search-二分查找](search/binary_search)
+  * [linear search-线性查找](search/linear_search)
   * [jump search](search/jump_search)
   * [ternary search](search/ternary_search)
   * [interpolation search](search/interpolation_search)
