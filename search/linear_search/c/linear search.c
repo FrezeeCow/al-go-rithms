@@ -20,7 +20,7 @@ int main()
 {
 	int arr[] = { 2, 3, 7, 8, 78, 99, 102, 5555 };
 	int x = 99;
-    int result = linearSearch(arr, 0, sizeof(arr) / sizeof(arr[0]), x);
+        int result = linearSearch(arr, 0, sizeof(arr) / sizeof(arr[0]), x);
 
 	if (result == -1) {
 		printf("Element not present!\n");
