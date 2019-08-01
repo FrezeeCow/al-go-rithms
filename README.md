@@ -60,7 +60,7 @@ Clean example implementations of data structures and algorithms written in diffe
   * [automorphic numbers](math/automorphic_numbers)
   * [josepheus_problem](math/josepheus_problem)
   * [fast pow](math/fast_pow)
-* [Cryptography](cryptography)
+* [Cryptography-加密](cryptography)
   * [affine cipher](cryptography/affine_cipher)
   * [autokey cipher](cryptography/autokey_cipher)
   * [baconian cipher](cryptography/baconian_cipher)
@@ -148,15 +148,15 @@ Clean example implementations of data structures and algorithms written in diffe
   * [red and black tree-红黑树](data_structures/red_and_black_tree)
   * [segment tree](data_structures/segment_tree)
   * [splay tree](data_structures/Splay_trees)
-* [Backtracking](backtracking)
+* [Backtracking-回溯](backtracking)
   * [sudoku](backtracking/sudoku)
   * [permutations](backtracking/permutations)
   * [knights tour](backtracking/knightsTour)
-  * [n queens](backtracking/n-queens)
+  * [n queens-n皇后](backtracking/n-queens)
   * [rat in a maze](backtracking/rat_in_a_maze)
   * [wordsearch](backtracking/wordsearch)
-* [Synchronization](synchronization)
-  * [Producer consumer problem](synchronization/ProducerConsumer)
+* [Synchronization-同步](synchronization)
+  * [Producer consumer problem-生产者消费者](synchronization/ProducerConsumer)
 
 ## Contribution
  * Contributions are always welcome. Language doesn't matter. Just make sure you're implementing an algorithm.
